@@ -8,34 +8,27 @@
       <link href="/2023/03/05/This-is-my-first-blog/"/>
       <url>/2023/03/05/This-is-my-first-blog/</url>
       
-        <content type="html"><![CDATA[<h1 id="Hello-Hexo"><a href="#Hello-Hexo" class="headerlink" title="Hello Hexo"></a>Hello Hexo</h1>]]></content>
+        <content type="html"><![CDATA[<h1 id="Hello-Hexo"><a href="#Hello-Hexo" class="headerlink" title="Hello Hexo"></a>Hello Hexo</h1><p>我自风情万种，与世无争论</p><p><img src="https://ts1.cn.mm.bing.net/th/id/R-C.df4462fabf18edd07195679a5f8a37e5?rik=FnNvr9jWWjHCVQ&amp;riu=http%253a%252f%252fseopic.699pic.com%252fphoto%252f50059%252f8720.jpg_wh1200.jpg&amp;ehk=ofb4q76uCls2S07aIlc8%252bab3H5zwrmj%252bhqiZ%252fyw3Ghw%253d&amp;risl=&amp;pid=ImgRaw&amp;r=0" alt="九寨沟山水自然美景高清图片下载-正版图片500598720-摄图网"></p>]]></content>
       
       
       <categories>
           
-          <category> 基础部分 </category>
+          <category> web前端 </category>
+          
+          <category> JavaSe </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> Java </tag>
+            <tag> jQuery </tag>
+            
+            <tag> 表单 </tag>
+            
+            <tag> 表单验证 </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2023/03/01/hello-world/"/>
-      <url>/2023/03/01/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="bash">$ hexo new &quot;My New Post&quot;</code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
       
     </entry>
     

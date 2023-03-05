@@ -1,0 +1,8 @@
+#web_bg {
+  /* 背景图像的地址（url括号里）  */
+  background: url("https://cn.bing.com/images/search?view=detailV2&ccid=YKoZzgmu&id=702E280C47E9987874D231029BBBC2628E1A46C2&thid=OIP.YKoZzgmubNBxQ8j-mmoTKAHaEK&mediaurl=https%3a%2f%2fpic.3gbizhi.com%2f2019%2f0928%2f20190928012439343.jpg&exph=2592&expw=4608&q=%e5%9b%be%e7%89%87&simid=607999298918049484&FORM=IRPRST&ck=4BC2A0E29300968C1CE49D200C16DF25&selectedIndex=7");
+  /* 背景图像不重复 */
+  background-repeat: no-repeat;
+  /* 背景图像大小 */
+  background-size: cover;
+}
